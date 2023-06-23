@@ -4,3 +4,23 @@ Karan Shah
 Nikita Joshi
 Jainam Zaveri 
 Nidhi Heniya
+
+Smart Traffic Light using Machine Learning and Image Recognition
+This repository contains the code and resources for a final year project named "Smart Traffic Light" that utilizes machine learning and image recognition techniques to optimize traffic flow and improve road safety. The project was developed using Python, PyGame, OpenCV, Microsoft Visual Studio, and YOLO.
+
+Project Overview
+The goal of the Smart Traffic Light project is to create an intelligent traffic light system that dynamically adjusts signal timings based on real-time traffic conditions. By utilizing machine learning algorithms and image recognition techniques, the system can accurately detect and analyze vehicles at intersections, optimizing traffic signal timings to reduce congestion and improve overall traffic efficiency.
+
+Key Features
+Real-time vehicle detection and tracking using the YOLO (You Only Look Once) algorithm.
+Traffic signal timing optimization based on the detected vehicle flow and density.
+Simulation of the traffic light system using the PyGame module.
+Image recognition and analysis using the OpenCV module.
+User-friendly graphical interface for configuration and monitoring.
+
+Acknowledgments
+We would like to acknowledge the following resources and libraries that have been instrumental in the development of this project:
+
+YOLO (You Only Look Once): Real-time object detection algorithm.
+PyGame: A cross-platform set of Python modules designed for writing video games.
+OpenCV: An open-source computer vision library for image and
